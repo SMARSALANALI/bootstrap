@@ -1,0 +1,99 @@
+
+#nav2{
+    color: white;
+}
+#more:hover{
+    background-color: darkgray;
+}
+#i1{
+    height: 150px;
+    width: 700px;
+}
+#i2{
+    height: 150px;
+    width: 700px;
+}
+#i3{
+    height: 150px;
+    width: 700px;
+}
+#i4{
+    height: 150px;
+    width: 700px;
+}
+#i5{
+    height: 150px;
+    width: 700px;
+}
+#i6{
+    height: 150px;
+    width: 700px;
+}
+#i7{
+    height: 150px;
+    width: 700px;
+}
+#i8{
+    height: 150px;
+    width: 700px;
+}
+#i9{
+    height: 150px;
+    width: 700px;
+}
+#i10{
+    height: 150px;
+    width: 700px;
+}
+#i11{
+    height: 150px;
+    width: 700px;
+}
+#i12{
+    height: 150px;
+    width: 700px;
+}
+#i13{
+    height: 150px;
+    width: 700px;
+}
+#i14{
+    height: 150px;
+    width: 700px;
+}
+#i15{
+    height: 150px;
+    width: 700px;
+}
+#i16{
+    height: 150px;
+    width: 700px;
+}
+#i17{
+    height: 150px;
+    width: 700px;
+}
+#i18{
+    height: 150px;
+    width: 700px;
+}
+.dispaly-1{
+    text-align: center;
+    text-decoration: darkgray;
+    padding-top: 0px;
+}
+.overlay {
+    transition: .5s ease;
+    opacity: 0;
+  }
+
+  
+  .card:hover .overlay {
+    background-color: darkgreen;
+    opacity: 1;
+  }
+  #f{
+    color: darkgray;
+  }
+ 
+  
